@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.exe
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.deps.json
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.json
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\bin\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.AssemblyInfo.cs
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.dll
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.pdb
+C:\Users\pc\Desktop\Homework Exercise 3 Class 02\SwapNumbers\SwapNumbers\obj\Debug\netcoreapp3.1\SwapNumbers.genruntimeconfig.cache
