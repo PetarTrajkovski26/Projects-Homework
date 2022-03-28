@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.exe
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.deps.json
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.runtimeconfig.json
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.dll
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\bin\Debug\netcoreapp3.1\FunWithStrings.pdb
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.AssemblyInfo.cs
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.dll
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.pdb
+C:\Users\pc\Desktop\Homework Class 04\FunWithStrings\FunWithStrings\obj\Debug\netcoreapp3.1\FunWithStrings.genruntimeconfig.cache
