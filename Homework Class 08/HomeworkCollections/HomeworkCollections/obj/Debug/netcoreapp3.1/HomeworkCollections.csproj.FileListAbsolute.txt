@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.exe
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.deps.json
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.runtimeconfig.json
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.dll
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\bin\Debug\netcoreapp3.1\HomeworkCollections.pdb
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.AssemblyInfo.cs
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.dll
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.pdb
+C:\Users\pc\Desktop\Homework Class 08\HomeworkCollections\HomeworkCollections\obj\Debug\netcoreapp3.1\HomeworkCollections.genruntimeconfig.cache
