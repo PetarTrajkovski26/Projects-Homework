@@ -1,0 +1,28 @@
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.exe
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.deps.json
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.runtimeconfig.json
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.dll
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.pdb
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.AssemblyInfo.cs
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.dll
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.pdb
+C:\Users\pc\Desktop\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.genruntimeconfig.cache
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.exe
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.deps.json
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.runtimeconfig.json
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.runtimeconfig.dev.json
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.dll
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\bin\Debug\netcoreapp3.1\HomeworkClass09Linq.pdb
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.AssemblyInfo.cs
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.dll
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.pdb
+C:\Users\pc\Desktop\Peco Dokumneti\C# Basic\Homework class 09\HomeworkClass09Linq\HomeworkClass09Linq\obj\Debug\netcoreapp3.1\HomeworkClass09Linq.genruntimeconfig.cache
